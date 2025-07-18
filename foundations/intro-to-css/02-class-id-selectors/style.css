@@ -1,0 +1,18 @@
+.class_one {
+    background-color: rgba(255, 122, 151, 0.875);
+    font-family: verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: rgb(0, 0,255);
+    font-size: 36px;
+}
+
+.class_three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(149, 255, 149); 
+    font-weight:bold;
+}
